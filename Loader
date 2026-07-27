@@ -1,6 +1,6 @@
 --[[
     
-     █████╗ ███████╗████████╗██████╗ ██╗██╗  ██╗██╗  ██╗██╗   ██╗██████╗ 
+    █████╗ ███████╗████████╗██████╗ ██╗██╗  ██╗██╗  ██╗██╗   ██╗██████╗ 
     ██╔══██╗██╔════╝╚══██╔══╝██╔══██╗██║╚██╗██╔╝██║  ██║██║   ██║██╔══██╗
     ███████║███████╗   ██║   ██████╔╝██║ ╚███╔╝ ███████║██║   ██║██████╔╝
     ██╔══██║╚════██║   ██║   ██╔══██╗██║ ██╔██╗ ██╔══██║██║   ██║██╔══██╗
@@ -14,4 +14,4 @@
     
 ]]
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/astrixdevs/Gates/refs/heads/main/Main", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/astrixdevs/Gates/refs/heads/main/IWHH72", true))()
